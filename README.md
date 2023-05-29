@@ -1,7 +1,5 @@
 # GreenSegmentation
 
-## Context
-
 ### At Bilberry, pictures taken from our cameras are used to recognize some plant species. Some
 of the AI algorithms mainly detect them thanks to their green color on a brown background.
 
@@ -13,4 +11,3 @@ of the AI algorithms mainly detect them thanks to their green color on a brown b
 | IDE         | QT             |
 | Run         | Cross-platform |
 
-## Steps followed 
