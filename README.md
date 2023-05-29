@@ -5,7 +5,6 @@
 ### This software program will allow us to input RGB picture and it will be transformed into black and white picture(the green pixels will turn black and the other colors will turn white).
 
 | Language    | C++            |
-|-------------|----------------|
 | Compilation | CMake          |
 | IDE         | QT             |
 | Run         | Cross-platform |
